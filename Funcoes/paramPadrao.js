@@ -33,9 +33,4 @@ function soma(a = 1, b = 1, c = 1) {
     return a + b + c
 }
 console.log(soma(0,0,0))
-// Teste mais lógico
-function soma2(a = Number, b = Number, c = Number) {
-    return a + b + c
-}
-console.log(soma2  (0,0,0))
 
