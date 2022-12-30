@@ -1,4 +1,4 @@
-function Carro(velocidadeMax = 200, delta = 5) {
+function Carro(velocidadeMax = 200, delta = 5) { // Parametro Padrão
     // Atributo Privado.
     let velocidadeAtual = 0
 
